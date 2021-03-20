@@ -1,1 +1,2 @@
-# The-Guessing-game
+# The Guessing Game
+_This game is about guess where the player will choose a random number between 1 to 100 and a random number will be chosen by computer as well and if player's number came out greater than the computer then player will win._
